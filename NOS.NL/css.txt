@@ -1,0 +1,134 @@
+/* Reset standaardstijlen */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basisopmaak */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #00449e;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.navbar li {
+    margin: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #333;
+}
+
+.section {
+    padding: 20px 0;
+}
+
+.article {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+}
+
+.article img {
+    max-width: 100%;
+}
+
+.sidebar {
+    background-color: #f8f8f8;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #ddd;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Media queries voor responsiviteit */
+@media screen and (max-width: 768px) {
+    .article {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Voeg hier meer stijlen toe voor specifieke elementen */
+element.style {
+}
+@media (min-width: 900px)
+<style>
+.gHQuNK {
+    margin-bottom: 2.5rem;
+}
+@media (min-width: 760px)
+<style>
+.gHQuNK {
+    margin-top: 0px;
+    margin-bottom: 2rem;
+}
+<style>
+.gHQuNK {
+    margin-bottom: 1rem;
+}
+@media (min-width: 760px)
+<style>
+.hEHUgQ {
+    margin-top: 2.5rem;
+}
+<style>
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+<style>
+html, body {
+    height: 100%;
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    font-feature-settings: "liga", "kern";
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+}
+<style>
+html {
+    line-height: 1.15;
+    text-size-adjust: 100%;
+}
+<style>
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+<style>
+*, ::before, ::after {
+    box-sizing: border-box;
+}
